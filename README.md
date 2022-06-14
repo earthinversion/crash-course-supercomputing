@@ -16,3 +16,5 @@ sbatch runall_batch.sh
 ```
 
 Substituting the proper training project for `ntrainN` and proper reservation name for `res_name`, and we suggest to run part of the exercises from runall.sh at a time.
+
+Another course at: https://hpc-tutorials.llnl.gov/mpi/
